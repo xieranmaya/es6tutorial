@@ -703,7 +703,7 @@ TypeError: even is not a function
 
 [ES6 module transpiler](https://github.com/esnext/es6-module-transpiler)是square公司开源的一个转码器，可以将ES6模块转为CommonJS模块或AMD模块的写法，从而在浏览器中使用。
 
-首先，安装这个转玛器。
+首先，安装这个转码器。
 
 ```bash
 $ npm install -g es6-module-transpiler
